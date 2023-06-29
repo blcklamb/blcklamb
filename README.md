@@ -1,5 +1,12 @@
 ### UX를 최우선으로 하는 개발자 김채정입니다 🙋‍♀️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blcklamb&show_icons=true&theme=vision-friendly-dark)
+
+(⛑️ 23.06.30 기준 업데이트 중입니다)
+
+<div align="center">
+  
+  ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemonbalm25)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blcklamb&show_icons=true&theme=vision-friendly-dark)
+</div>
 
 <a href="https://velog.io/@blcklamb">
   <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
