@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### UX를 최우선으로 하는 개발자 김채정입니다 🙋‍♀️
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blcklamb&show_icons=true&theme=vision-friendly-dark)
 <!--
 **blcklamb/blcklamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
