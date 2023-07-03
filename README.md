@@ -1,6 +1,9 @@
-### UX를 최우선으로 하는 개발자 김채정입니다 🙋‍♀️
+### UX를 최우선으로 하는 개발자 김채정입니다 🙋‍♀
 
-(⛑️ 23.06.30 기준 업데이트 중입니다)
+- ChungAng Univ. Physics. Cultural Contents.
+- Web Front-end Developer
+
+(⛑️ 23.07.03 기준 업데이트 중입니다)
 
 <div align="center">
   
@@ -8,9 +11,8 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blcklamb&show_icons=true&theme=vision-friendly-dark)
 </div>
 
-<a href="https://velog.io/@blcklamb">
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
-</a>
+- 기술블로그 놀러가기 ![](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white)
+
 
 ### 교육
 - 21.10 ~ 21.12 스파르타 | 비개발자를 위한, 웹개발 종합반(프로그래밍 실무, 풀스택)
