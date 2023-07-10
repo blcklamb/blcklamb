@@ -3,29 +3,32 @@
 - ChungAng Univ. Physics. Cultural Contents.
 - Web Front-end Developer
 
-(⛑️ 23.07.03 기준 업데이트 중입니다)
-
 <div align="center">
   
   ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemonbalm25)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blcklamb&show_icons=true&theme=vision-friendly-dark)
 </div>
 
-- 기술블로그 놀러가기 ![](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white)
+<div>
+  <a href="https://velog.io/@blcklamb">
+    <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
+  </a>
+</div>
 
 
-### 교육
+
+### 📈 교육
 - 21.10 ~ 21.12 스파르타 | 비개발자를 위한, 웹개발 종합반(프로그래밍 실무, 풀스택)
 - 22.01 ~ 22.07 엘리스 | AI 트랙 4기
 - 22.08 ~ 22.09 원티드 | 프리온보딩 프론트엔드 코스 6차
 
-### 수상
+### 💝 수상
 - 엘리스 AI 트랙 4기 인공지능 웹 프로젝트 최우수상
 - 오픈소스 컨트리뷰션 우수상
 
-### 이력
+### 📝 이력
 - 22.07 ~ 22.10 2022 오픈소스 컨트리뷰션 아카데미 | githru-vscode-ext
-- 22.11 ~ 23.04 클래스유
+- 22.11 ~ 23.04 클래스유 | Front-end 개발자
 
 
 <!--
