@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on B2B SaaS platform
 - 🌱 I’m currently learning AI Agent, Tanstack Query
 - 🤔 I’m looking for help with future career on Front-end
-- 
 
 <div>
   <a href="https://velog.io/@blcklamb">
